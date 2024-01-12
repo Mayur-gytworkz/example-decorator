@@ -1,0 +1,20 @@
+.btn {
+    margin-left: 20px;
+}
+.sal {
+    font-size: xx-large;
+    font-weight: 700;
+}
+.form-control {
+    padding-top: 21px;
+    padding-bottom:18px;
+}
+/* Add this to your CSS file */
+.reset-icon {
+    font-size: 20px; /* Adjust the font size as needed */
+    color: #007bff; /* Adjust the color as needed */
+    cursor: pointer;
+    margin-left: 10px; 
+    margin-top: 4px;/* Add margin for spacing */
+  }
+  
